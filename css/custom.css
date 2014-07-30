@@ -1,12 +1,12 @@
 /* this is a custom CSS stylesheet*/
 .row{
 	font-family: Garamond;
-	font-size: 125px;
-	text-align: center;
+	font-size: 30px;
+	text-align: left;
 	color: #006C63;
 }
 .tabs{
-	font-family: Helvetica;
+	font-family: Garamond;
 	text-align: center;
 	border-radius: 10px;
 	color: #01796F;
