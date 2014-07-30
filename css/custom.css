@@ -7,7 +7,7 @@
 }
 .tabs{
 	font-family: Garamond;
-	text-align: center;
+	text-align: right;
 	border-radius: 10px;
 	color: #01796F;
 	height: 40px;
@@ -16,8 +16,7 @@
 	margin-right: 5px;
 	text-decoration: none;
 }
-span{
-	color: #01796F;
+
 }
 .footer{
 	font-family: Helvetica;
